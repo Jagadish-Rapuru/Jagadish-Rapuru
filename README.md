@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jagadish Rapuru
 
-<!--
-**Jagadish-Rapuru/Jagadish-Rapuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a .NET AI Engineer at the University of Nevada, Reno. I build RAG and agentic AI systems with C#, Semantic Kernel and Azure OpenAI.
 
-Here are some ideas to get you started:
+## What I'm working on
+- An agentic invoice processing pipeline in .NET 8 and Blazor Server. It has processed 600+ invoices and saves finance staff 18 hours a month.
+- RAG assistants that answer from policy documents with citations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects to look at
+- [secure-rag-rbac](https://github.com/Jagadish-Rapuru/secure-rag-rbac): a .NET 8 RAG API with role-based access control at the vector search layer
+- [ai-code-reviewer](https://github.com/Jagadish-Rapuru/ai-code-reviewer): code review feedback powered by OpenAI
+- [ledgerline](https://github.com/Jagadish-Rapuru/ledgerline): an Angular prototype of an AI tax workspace
+
+## Stack
+C#, .NET 8, ASP.NET Core, Blazor, SQL Server, Azure OpenAI, Semantic Kernel, Python, Angular, React
+
+## Certifications
+Azure DevOps Engineer Expert (AZ-400), Azure Developer Associate (AZ-204), Azure Fundamentals (AZ-900)
+
+## Find me
+- LinkedIn: https://www.linkedin.com/in/jagadishrapuru
+- Portfolio: https://jagadishrapuru.bio
